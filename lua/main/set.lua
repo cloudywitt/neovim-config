@@ -17,6 +17,9 @@ set.incsearch = true
 
 set.termguicolors = true
 
+set.scrolloff = 8
+
 set.colorcolumn = "80"
 
 vim.g.mapleader = " "
+
